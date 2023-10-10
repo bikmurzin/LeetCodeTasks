@@ -6,3 +6,4 @@
 - 2 Add Two Numbers https://leetcode.com/problems/add-two-numbers/
 - 19 Remove Nth Node From End of List https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - 21 Merge Two Sorted Lists https://leetcode.com/problems/merge-two-sorted-lists/
+- 389 Find the Difference https://leetcode.com/problems/find-the-difference/submissions/?envType=study-plan-v2&envId=programming-skills 
